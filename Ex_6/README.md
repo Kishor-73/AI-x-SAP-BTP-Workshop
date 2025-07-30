@@ -32,6 +32,7 @@ This overview helps users understand how to connect the user interface with SAP'
 
 ![](./Exercise%206.img/ex6.img02.png)
 
+![](./Exercise%206.img/ex6.img03.png)
 #### Step2: Trigger the Workflow
 
 1. Go to Screen 2 and click the button (Button to Process Invoice for Approval)
@@ -58,8 +59,6 @@ This overview helps users understand how to connect the user interface with SAP'
    4. Select the Request Body --> Select formula --> Copy Paste the workflow context details --> Select the variables from App variables (as in sample payloads by default values will empty) --> Save it
 
    5. Give the relative path in optional inputs (since in destination we already added till API end point we need to give remaining relative path here)
-
-![](./Exercise%206.img/ex6.img03.png)
 
 ![](./Exercise%206.img/ex6.img04.png)
 
